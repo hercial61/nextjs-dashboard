@@ -163,11 +163,35 @@ const invoices = [
     status: 'paid',
     date: '2022-06-05',
   },
+  {
+    customer_id: customer[10].id,
+    amount: 15000,
+    status: 'pending',
+    date: '2024-02-28',
+  },
+  {
+    customer_id: customer[11].id,
+    amount: 10000,
+    status: 'pending',
+    date: '2024-02-28',
+  },
+  {
+    customer_id: customer[10].id,
+    amount: 15000,
+    status: 'paid',
+    date: '2024-02-28',
+  },
+  {
+    customer_id: customer[11].id,
+    amount: 10000,
+    status: 'paid',
+    date: '2024-02-28',
+  },
 ];
 
 const revenue = [
   { month: 'Jan', revenue: 2000 },
-  { month: 'Feb', revenue: 1800 },
+  { month: 'Feb', revenue: 26000 },
   { month: 'Mar', revenue: 2200 },
   { month: 'Apr', revenue: 2500 },
   { month: 'May', revenue: 2300 },

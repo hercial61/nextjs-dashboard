@@ -10,6 +10,8 @@ DEV-TALK(https://youtu.be/U9mJuUkhUzk)
 
 [Openai research](https://openai.com/research)
 
+[Pandora](https://pandora.com)
+
 [SORA-text-to-video](https://community.openai.com/t/introducing-sora-our-text-to-video-model/630289)
 
 [Aljareera](https://twitter.com/i/broadcasts/1gqxvQBwogjJB?s=20)
@@ -92,4 +94,6 @@ trillers(46588)war(48744)drama(6889)
 
 [newsday](https://newsday.co.tt/category/news/)
 
+[Gitlens-patch(https://gitkraken.dev/link/drafts/6e60c9d6-58b7-45af-a92e-fb9f086d5c91)]
 
+[HBO Flow](https://play.hbomax-sso.discoverflow.co)

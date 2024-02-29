@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "src",
     "paths": {
-        "app/*": ["app/*"],
+        "app/*": ["../*"],
         "config/*": ["app/_config/*"],
         "shared/*": ["app/_shared/*"],
     },
